@@ -86,9 +86,13 @@ Fitness and diet tracker with workout logging, meal planning, progress analytics
   <img src="assets/section-activity-dark.svg" width="100%" alt="Activity" />
 </picture>
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitvijayakumar45&layout=compact&langs_count=8&hide_border=true&border_radius=14&bg_color=0b1217&title_color=ece6dc&text_color=8697a3&custom_title=Languages&hide=html,css,dockerfile,shell,powershell,swift,java,ruby,cypher" alt="Top languages" />
-</p>
+<img src="assets/languages.svg" width="100%" alt="Languages across public repositories" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitvijayakumar45/rohitvijayakumar45/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitvijayakumar45/rohitvijayakumar45/output/snake.svg" />
+  <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/rohitvijayakumar45/rohitvijayakumar45/output/snake.svg" />
+</picture>
 
 <br />
 
